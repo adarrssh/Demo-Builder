@@ -9,8 +9,8 @@ const CreateDemo = () => {
       <Header />
 
       {/* iframe contenet  */}
-      <section className="w-full h-full flex-1 ">
-        <h1 className="text-center text-white">Main Content</h1>
+      <section className="w-full  bg-slate-300 flex-1 flex items-center justify-center ">
+        <h1 className="text-center">Main Content</h1>
       </section>
 
       <Footer />
