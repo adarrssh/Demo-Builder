@@ -1,9 +1,5 @@
 import React from "react";
-import editIcon from "../../assets/svg/headerEditIcon.svg";
-import headerModificationHistoryIcon from "../../assets/svg/headerModificationHistoryIcon.svg";
-import fullScreenIcon from "../../assets/svg/fullScreenIcon.svg";
-import previewIcon from "../../assets/svg/previewIcon.svg";
-import tickIcon from "../../assets/svg/tickIcon.svg";
+import {editIcon, headerModificationHistoryIcon, fullScreenIcon,previewIcon,tickIcon} from '../../utils/imageMapper'
 
 const Header = () => {
   return (

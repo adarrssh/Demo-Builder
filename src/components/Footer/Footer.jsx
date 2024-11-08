@@ -1,6 +1,6 @@
 import React from "react";
-import researchIcon from "../../assets/svg/researchIcon.svg";
-import outlineIcon from "../../assets/svg/outlineIcon.svg";
+import {researchIcon, outlineIcon} from '../../utils/imageMapper'
+
 
 
 const Footer = () => {
